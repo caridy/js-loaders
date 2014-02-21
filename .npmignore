@@ -1,0 +1,6 @@
+docs
+scripts
+specs
+test
+*.sh
+*.md
