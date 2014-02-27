@@ -3233,4 +3233,4 @@ LoaderIterator.prototype = {
     "@@toStringTag": "Loader Iterator"
 };
 
-})(this);
+})(typeof global !== 'undefined' ? global : this);
